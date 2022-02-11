@@ -1,0 +1,101 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+  } 
+  body{
+    font-family: 'Poppins', sans-serif;
+    background-image: url('./img/marek-piwnicki-Kqe_vo7vAmI-unsplash.jpg');
+     background-size: cover;
+     background-position: center center;
+     min-height: 100vh;
+     
+    
+}
+.room h2{
+    font-size:1rem;
+    font-weight: normal;
+    color: rgb(251, 255, 0);
+}
+.room{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top:3rem;
+ /* border-bottom:0.01px dotted rgb(255, 255, 255); */
+ 
+/*     
+    text-align: center;
+    width:550px;
+
+    /* padding-bottom:0px; */
+    /* padding-left: 0px; */
+   
+    /* margin-top:; */
+}
+.countdown-container{
+   /* display: flex; */
+     display: flex;
+     flex-direction: row;
+     color: aliceblue;
+     justify-content: center;
+     align-items: center;
+     margin-top:12rem;
+   flex-wrap: wrap;
+
+}
+.big-text{
+    margin:0 2rem;
+    font-size:6rem;
+    font-weight: bold;
+
+}
+.all-same {
+    text-align: center;
+}
+.all-same span{
+    font-size: 1.5rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
